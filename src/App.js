@@ -1,3 +1,5 @@
+//Created new repository on Github to import this here. 
+//Is there another way to import a project to codesandbox?- Caridad
 import { RedStripe } from './RedStripe';
 import './App.css';
 import { BlueStripe } from './BlueStripe';
